@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zaidmullakaifmulla.github.io/gani-catering/sitemap.xml
